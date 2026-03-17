@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# War Room Natty: Simulação Realista de Incidente Crítico com IA Generativa 😉
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📕 Descrição
+Este projeto simula, com realismo (“natty”), um incidente P1 em um ambiente corporativo: alerta crítico, abertura de ticket, evolução do dashboard e um breve áudio pós-incidente (mini post-mortem). O objetivo é demonstrar como IAs generativas podem produzir conteúdo técnico visual e narrativo com aparência e estrutura de caso real — útil para treinamento de times de suporte e SRE.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Microsoft Copilot (roteiro, prompts e revisão do texto)
+- Geradores de Imagem com IA (prints sintéticos Zabbix/Grafana/Jira)
+- Sintetizador de Voz (áudio pós-incidente)
+- GitHub (versionamento e publicação)
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧠 Processo de Criação
+1. Definição do cenário do incidente.
+2. Engenharia de prompts para recriar telas realistas.
+3. Geração das mídias (alerta, ticket, dashboard, áudio).
+4. Ajuste das imperfeições para parecer conteúdo real (“natty”).
+5. Organização dos arquivos na pasta `/exemplos`.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Arquivos na pasta `/exemplos`:
+- `alerta_zabbix_fake_natty.png`
+- `dashboard_grafana_sla_fake_natty.png`
+- `ticket_jira_p1_fake_natty.png`
+- `postmortem_audio_fake_natty.mp3`
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar algo “natty” com IA exige atenção a contexto, narrativa e imperfeições humanas. A IA gera o bruto, mas o realismo vem da curadoria.
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Desafio DIO
+Projeto do lab “Natural ou Fake Natty? Como Vencer na Era das IAs Generativas”.
